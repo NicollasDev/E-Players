@@ -367,7 +367,7 @@ color: #ccc;
 /* 1200px */
 @media(max-width: 800px){
     .container{
-        width: 90%;
+        width: 95%;
     }
     .header .container img{
         max-width: 180px;
@@ -406,4 +406,15 @@ color: #ccc;
     .content{
         margin-top: 30px;
     }
+    .card img{
+        margin-top: 2.5em;
+        margin-left: 1em;
+    }
+    .resultado img{
+        width: 30px;
+    }
+    .resultado p{
+        margin-top: 1px;
+    }
+
 }/*Fim Média Query 800px*/
